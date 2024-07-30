@@ -1,1 +1,3 @@
 This is the first file added to the training repository for the Intro to Git and GitHub workshop.
+
+I am adding a line to show how changes appear in the GitHub Desktop interface.
