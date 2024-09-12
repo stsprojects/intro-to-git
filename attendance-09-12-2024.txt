@@ -1,1 +1,3 @@
 Creating a new file for today's session
+
+Adding a new update to the file.
